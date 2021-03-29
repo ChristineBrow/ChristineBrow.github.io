@@ -1,0 +1,33 @@
+.wrap
+{
+	width: 950px;
+	margin: auto;
+	color: white
+}
+.header
+{
+	width: 100%;
+	background-color: grey;
+	float: left;
+	text-align: center;
+	background-image: url("../image/текстура4.jpg");
+}
+.content
+{
+	background-color: grey;
+	float: left;
+	width: 70%;
+	
+	background-image: url("../image/текстура3.jpg");
+	text-align: center;
+}
+
+.footer
+{
+	background-color: grey;
+	text-align: center;
+	width: 100%;
+	clear: both;
+	float: left;
+	margin: auto;
+}

@@ -1,0 +1,50 @@
+.wrap
+{
+	width: 950px;
+	margin: auto;
+	color: white;
+
+}
+.header
+{
+	background-color: gray;
+	width: 100%;
+	float: left;
+	text-align: center;
+	background-image: url("../image/текстура4.jpg");
+}
+.content
+{
+	background-color: lightblue;
+	width: 70%;
+	float: left;
+	height: 750px;
+	background-image: url("../image/текстура3.jpg");
+
+}
+.sidebar
+{
+	background-color: lightblue;
+	width: 30%;
+	float: left;
+	height: 750px;
+	background-image: url("../image/текстура3.jpg");
+}
+.footear
+{
+	background-color: gray;
+	width: 100%;
+	text-align: center;
+	clear: both;
+	float: left;
+	background-image: url("../image/текстура4.jpg");
+}
+.block
+{
+	border:solid 2px black;
+	background-color: white;
+	width: 98%;
+	background-image: url("../image/текстура5.png");
+	margin:auto;
+	text-align: center;
+}
